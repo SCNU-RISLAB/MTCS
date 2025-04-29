@@ -6,9 +6,7 @@ The code will be made publicly available after the paper is published.
 
 # Real-Time Multi-Task Results
 
-<div align="center">
-  <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/End-to-end%20real-time%20detection%20of%20the%20number%20of%20people%20on%20campus..gif" width="600">
-</div>
+
 
 
 
@@ -17,7 +15,7 @@ Taking Photovoltaic Disaster Damage Assessment as an Example.
 Areas are categorized into different damage levels based on the number of pits: green represents 0 pits, blue represents 1–2 pits, yellow represents 3–5 pits, and red represents more than 5 pits.
 
 <div align="center">
-  <img src="https://github.com/SCNU-RISLAB/DACNet/raw/main/vs3.jpg" alt="Image Description" width="800">
+  <img src="https://github.com/SCNU-RISLAB/MTCS/blob/main/vis_2.jpg" alt="Image Description" width="500">
 </div>
 
 
