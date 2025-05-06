@@ -8,6 +8,10 @@ The code will be made publicly available after the paper is published.
 
 
 
+<div align="center">
+  <img src="https://github.com/SCNU-RISLAB/MTCS/blob/main/v2.gif" alt="Image Description" width="500">
+</div>
+
 
 
 # 🎉Regional Statistical Analysis Visualization
