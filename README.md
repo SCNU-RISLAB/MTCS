@@ -1,7 +1,7 @@
 
 # MTCS: A Multitask Framework for End-to-End UAV-Based Damage Assessment
-A repository of multi-task models MTCS
-The code will be made publicly available after the paper is published.
+A repository of multi-task models MTCS.
+The complete training and validation code will be released after the paper is accepted.
 
 
 # Real-Time Multi-Task Results
